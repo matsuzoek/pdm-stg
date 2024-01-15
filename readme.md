@@ -25,7 +25,7 @@ PDM Twitter は、シンプルな Twitter クローンのウェブアプリケ�
 
 ## 著者
 
-- あなたの名前
+- D.yamashita
 
 ## 謝辞
 
